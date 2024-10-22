@@ -1,0 +1,28 @@
+h1{
+    color: green;
+    font-size: 45px;
+    font-family: font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+  h2{
+    color: red;
+    font-size: 30px;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+h3{
+    color: rgb(82, 82, 233);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.color-violeta{
+    color: rgb(214, 2, 108);
+}
+
+.color-marron{
+    color: brown;
+}
+.color-naranja{
+    color: orange;
+}
